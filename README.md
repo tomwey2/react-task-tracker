@@ -7,10 +7,10 @@ Run the task tracker app locally:<br>
 npm start
 </code>  
 
-The app shows the task list:
+The app shows the task list:<br>
 ![Task Tracker List](task-tracker-list-tasks.png)
 
-You can delete tasks by clicking the red x. You can add a new task by clicking the button "Add Task".
+You can delete tasks by clicking the red x. You can add a new task by clicking the button "Add Task".<br>
 ![Task Tracker List](task-tracker-add-task.png)
 
 ## Database
